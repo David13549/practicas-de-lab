@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "disponible": true
+  },
+  {
+    "titulo": "Orgullo y Prejuicio",
+    "autor": "Jane Austen",
+    "disponible": true
+  }
+]
